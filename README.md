@@ -11,7 +11,7 @@ git clone https://github.com/WillyEth/hardhat-nft-marketplace-fcc
 cd hardhat-nextjs-nft-marketplace-fcc
 yarn
 ```
-
+ 
 ## 2. Deploy to rinkeby 
 
 After installing dependencies, deploy your contracts to rinkeby:
