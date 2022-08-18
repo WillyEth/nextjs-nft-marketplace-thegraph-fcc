@@ -1,7 +1,18 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
 
+
+ yarn add --dev tailwindcss postcss autoprefixer
+ yarn tailwindcss init -p
+
+./frpc -c frpc.ini
+
+
+ chmod +x frpc.exe
+ ./frpc.exe -c frpc.ini
+
+## Getting Started
+ "web3uikit": "^0.1.159"
 First, run the development server:
 
 ```bash
